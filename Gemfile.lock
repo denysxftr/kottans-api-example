@@ -1,3 +1,12 @@
+GIT
+  remote: git://github.com/Railsreactor/jsonapi_rails4_middleware.git
+  revision: dac89ae364486e3d8f2ce2e671ae232559efd6b2
+  specs:
+    jsonapi_rails4_middleware (0.0.2)
+      activesupport
+      json
+      rack
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -180,6 +189,7 @@ DEPENDENCIES
   devise
   jbuilder (~> 2.5)
   jquery-rails
+  jsonapi_rails4_middleware!
   listen (~> 3.0.5)
   puma (~> 3.0)
   rails (~> 5.0.0, >= 5.0.0.1)
